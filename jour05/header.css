@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header  {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: yellowgreen
+}
+
+
+header ul li {
+    display: inline;
+    list-style-type: none;
+}
+
+
