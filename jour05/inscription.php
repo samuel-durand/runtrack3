@@ -7,9 +7,7 @@
     <title>inscription</title>
 </head>
 <body>
-    <header>
-        <?php include('./header.php')?>
-    </header>
+q
     
 </body>
 </html>
