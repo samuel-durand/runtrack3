@@ -1,10 +1,9 @@
 body {
-    margin: 0;
-    padding: 0;
+    background-color: aqua;
 }
 
 
-@media screen and (max-width: 1680px) {
+@media screen and (max-width: 1920px) {
     body {
         background-color: #ffca4b;
     }
