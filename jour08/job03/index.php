@@ -55,11 +55,11 @@
             <input type="submit" value="envoyer !">
             <br>
 
-    <footer class="flex items-center justify-evenly	 bg-gradient-to-r from-purple-500 to-pink-500  absolute inset-x-0 bottom-0 h-16 text-white ">
-        <a >Acceuil</a>
-        <a >Inscription</a>
-        <a>Connexion</a>
-        <a>Rechercher</a>
+    <footer class="flex items-center justify-evenly	 bg-gradient-to-r from-purple-500 to-pink-500 w-100 h-16  absolute inset-x-0 bottom-0 h-16 text-white ">
+        <a class="cursor-pointer">Acceuil</a>
+        <a class="cursor-pointer">Inscription</a>
+        <a class="cursor-pointer">Connexion</a>
+        <a class="cursor-pointer">Rechercher</a>
     </footer>
     
 </body>
