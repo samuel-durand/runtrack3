@@ -1,0 +1,12 @@
+#rainbow-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  #message {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
