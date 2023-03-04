@@ -13,19 +13,6 @@
         <?php include('./header.php')?>
     </header>
 
-    <main>
-        <form>
-            
-            <label for="nom">votre nom</label>
-            <input type="text" id="nom" name="nom" placeholder="nom">
-            
-            <label for="password">votre mot de pass</label>
-            <input type="password" id="password" name="password" placeholder="mot de pass">
-
-            <input type="submit" value="se connecter">
-
-        </form>
-    </main>
 
     <footer>
         <? include('') ?>

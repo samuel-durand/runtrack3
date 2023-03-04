@@ -7,9 +7,22 @@
     <script src="script.js"></script>
     <title>Job02</title>
 </head>
-<body>
-    <main id="phrase">
-        <button id="button">Afficher</button>
-    </main>
+<button id="button" onclick="showhide()">Afficher/ Masquer l'article</button>
+<article id="article"></article>
+
+<script>
+function showhide() {
+  var article = document.getElementById("article");
+  if (article.style.display === "none") {
+    article.style.display = "block";
+    article.innerHTML = "L'important n'est pas la chute, mais l'atterrissage.";
+  } else {
+    article.style.display = "none";
+    article.innerHTML = "";
+  }
+}
+</script>
+
+
 </body>
 </html>

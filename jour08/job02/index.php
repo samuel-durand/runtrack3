@@ -35,11 +35,11 @@
             <label for="password">votre mot de pass</label><br>
             <input type="password" placeholder="mot de pass" required><br>
 
-            <input type="radio" name="homme" value="homme">
             <label for="homme">Homme</label><br>
+            <input type="radio" name="homme" value="homme">
 
-            <input type="radio" name="Femme" value="Femme">
             <label for="Femme">Femme</label><br>
+            <input type="radio" name="Femme" value="Femme">
 
             <label>vos passions ! :</label>
 
