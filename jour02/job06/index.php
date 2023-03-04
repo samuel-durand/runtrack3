@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Code Konami</title>
     <link rel="stylesheet" href="style.css">
-  </head> sds
+  </head> 
   <body>
     <h1>Code Konami</h1>
     <p>Entrez le code Konami pour activer le thème La Plateforme_.</p>
