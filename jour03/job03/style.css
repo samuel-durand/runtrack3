@@ -1,0 +1,75 @@
+#board {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .tile {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+  }
+  
+  .tile.empty {
+    background-color: white;
+  }
+  
+  .tile.tile1 {
+    background-image: url("logo1.PNG");
+  }
+  
+  .tile.tile2 {
+    background-image: url("logo2.PNG");
+  }
+  
+  .tile.tile3 {
+    background-image: url("logo3.PNG");
+  }
+  
+  .tile.tile4 {
+    background-image: url("logo4.PNG");
+  }
+  
+  .tile.tile5 {
+    background-image: url("logo5.PNG");
+  }
+  
+  .tile.tile6 {
+    background-image: url("logo6.PNG");
+  }
+  
+  .tile.tile7 {
+    background-image: url("logo7.PNG");
+  }
+  
+  .tile.tile8 {
+    background-image: url("logo8.PNG");
+  }
+  
+  .solved {
+    border-color: green;
+    box-shadow: 0px 0px 10px green;
+  }
+  
+  #reset {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+  }
+  
+  #message {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
