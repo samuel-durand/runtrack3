@@ -11,7 +11,7 @@
 <body>
 
 <header class="flex justify-end bg-blue h-24 items-center">
-    <h1 class="mr-auto">LOGO</h1>
+    <h1 class="mr-auto px-4 py-2">LOGO</h1>
     <nav class="items-center">
         <ul class="flex space-evenly">
             <li><a href="" class="px-4 py-2">Use Case</a></li>
