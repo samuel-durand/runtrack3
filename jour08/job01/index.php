@@ -13,7 +13,7 @@
             <li><a href="">Acceuil</a></li>
             <li><a>Inscription</a></li>
             <li><a>Connexion</a></li>
-            <li><a>Rechercher</a></li>
+            <li><a><input type="text"></a></li>
         </ul>
     </header>
 
